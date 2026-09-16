@@ -1,5 +1,3 @@
-Entendido. He preparado el archivo README.md listo para tu repositorio de GitHub, redactado con un tono humano, profesional y directo, sin utilizar asteriscos ni símbolos almohadilla. Puedes copiar y pegar el texto a continuación:
-
 Sygmatch Activator
 Gestor, Activador y Diagnóstico Profesional para Windows y Office
 
