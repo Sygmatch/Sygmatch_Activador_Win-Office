@@ -1,7 +1,7 @@
 Sygmatch Activator
 Gestor, Activador y Diagnóstico Profesional para Windows y Office
 
-Sygmatch Activator es una herramienta moderna de escritorio desarrollada en PowerShell con una interfaz gráfica optimizada en Modo Oscuro. Ofrece una solución limpia, automatizada y segura para gestionar, activar y diagnosticar licencias de Microsoft Windows y Microsoft Office sin complicaciones ni menús molestos.
+Sygmatch Activator es una herramienta moderna de escritorio desarrollada con una interfaz gráfica optimizada en Modo Oscuro. Ofrece una solución limpia, automatizada y segura para gestionar, activar y diagnosticar licencias de Microsoft Windows y Microsoft Office sin complicaciones ni menús molestos.
 
 Características Principales
 
